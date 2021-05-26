@@ -1,0 +1,8 @@
+tuple1=()
+tuple2=(1, 2, 3)
+tuple3=(1, "Hello", 3.4)
+tuple4=("mouse", [8, 4, 6], (1, 2, 3))
+print(tuple1)
+print(tuple2)
+print(tuple3)
+print(tuple4)

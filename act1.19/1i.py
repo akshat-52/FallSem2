@@ -1,0 +1,13 @@
+country_list=["India","Austria","Canada","Italy","Japan","France","Germany","Switerland","Sweden","Denmark"]
+print("Current list before adding 5 countries name: ")
+print("----------------------------------------------")
+print(country_list)
+country_list.append("Algeria")
+country_list.append("Burma")
+country_list.append("Sri Lanka")
+country_list.append("Madagascar")
+country_list.append("Egypt")
+print("\n")
+print("List after adding 5 countries name: ")
+print("----------------------------------------------")
+print(country_list)

@@ -1,0 +1,12 @@
+tupl=("MATHS","PHYSICS","COMPUTER")
+print("THE ORIGINAL TUPLE")
+print(tupl)
+print("\n")
+a=list(tupl)
+print("TUPLE AS A LIST")
+print(a)
+print("\n")
+a[1]="HISTORY"
+tupl=tuple(a)
+print("TUPLE AFTER CHANGING ELEMENT")
+print(tupl)

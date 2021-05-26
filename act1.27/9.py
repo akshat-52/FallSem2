@@ -1,0 +1,5 @@
+my_tuple=('a','p','p','l','e')
+print(my_tuple.count('p'))
+print(my_tuple.count('e'))
+print(my_tuple.index('p'))
+print(my_tuple.index('e'))
